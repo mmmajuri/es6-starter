@@ -73,8 +73,6 @@ Webpack configuration includes default shims and placeholders for more.
 
 ## Running the app
 
-Create directory for the assets.
-
 `npm start`run and watch changes at http://localhost:8100
 
 `npm test` run units tests once
